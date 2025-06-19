@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af3aac5cc388a40449bca0350c0de2cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225625
+  packageName: Cemetery - Low Poly 3D Model Pack
+  packageVersion: 2.1
+  assetPath: Assets/ithappy/Cemetery/Scripts/BlendShapeAnimator.cs
+  uploadId: 760413

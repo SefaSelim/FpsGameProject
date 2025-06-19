@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2b040020f5c39e74f88d80a8f69f9022
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225625
+  packageName: Cemetery - Low Poly 3D Model Pack
+  packageVersion: 2.1
+  assetPath: Assets/ithappy/Cemetery/Scripts/RotationScript.cs
+  uploadId: 760413
